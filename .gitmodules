@@ -1,0 +1,3 @@
+[submodule "Tp-FizzBuzz"]
+	path = Tp-FizzBuzz
+	url = https://github.com/Master-IFRI/Tp-FizzBuzz.git
